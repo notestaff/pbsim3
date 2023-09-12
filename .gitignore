@@ -1,0 +1,9 @@
+# emacs-related
+*~
+\#*#
+
+# autotools-related
+autom4te.cache/
+build/
+config.h.in
+configure
